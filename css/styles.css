@@ -3,12 +3,14 @@ body {
   color: #434455;
   background-color: #fff;
 }
+
 ul,
 ol,
 a {
   list-style-type: none;
   text-decoration: none;
 }
+
 .page-title,
 footer {
   background-color: #2e2f42;
@@ -23,6 +25,7 @@ h1 {
   text-align: center;
   color: #fff;
 }
+
 p {
   font-weight: 400;
   font-size: 16px;
@@ -30,8 +33,9 @@ p {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
+
 h3 {
   font-weight: 500;
   font-size: 20px;
@@ -39,7 +43,7 @@ h3 {
   /* line-height: 24px; */
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 h2 {
   font-weight: 700;
@@ -49,5 +53,5 @@ h2 {
   line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
