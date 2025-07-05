@@ -55,3 +55,16 @@ h2 {
   text-align: center;
   color: #2e2f42;
 }
+a {
+  color: #4d5ae5;
+}
+button {
+  background-color: #4d5ae5;
+}
+
+button:hover {
+  background-color: #404bbf;
+}
+a:hover {
+  color: #404bbf;
+}
